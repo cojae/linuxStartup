@@ -3,6 +3,7 @@ set nu
 set autoindent
 set incsearch
 set tabstop=2
+set expandtab
 set shiftwidth=2
 
 set t_Co=256
